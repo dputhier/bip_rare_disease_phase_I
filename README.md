@@ -76,3 +76,6 @@ Submit your questions, issues, or feedback by opening an issue in this github re
 - [https://github.com/dputhier/rare-disease-phase-I/issues](https://github.com/dputhier/rare-disease-phase-I/issues)
 
 
+## Links
+
+- [Rare Diseases at the Omics era: Current tools for frequent challenges](https://civis.eu/en/learn/civis-courses/rare-diseases-at-the-omics-era-current-tools-for-frequent-challenges) (Civis)
