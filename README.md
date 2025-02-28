@@ -60,7 +60,7 @@ The pedagological material that is provided as  web pages (see "Learning modules
 - Start RStudio. In the panel named "Console", at the bottom of the graphical interface, copy and paste successively the following instructions:
 
   - `install.packages("devtools")`
-  - `devtools::install_github("dputhier/rtrainer")``
+  - `devtools::install_github("dputhier/rtrainer")`
   - `library(learnr)`
   - `learnr::available_tutorials("rtrainer")``
 
