@@ -1,4 +1,21 @@
-# BIP (Blended Intensive Programs) : "Rare Diseases at the Omics era: Current tools for frequent challenges" (Phase I remote)
+---
+title: 'BIP (Blended Intensive Programs) : "Rare Diseases at the Omics era: Current
+  tools for frequent challenges" (Phase I remote)'
+author: "D. Puthier"
+date: "2025-02-28"
+output:
+  html_document:
+    fig_caption: yes
+    highlight: zenburn
+    theme: cerulean
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 # Objectives 
 
@@ -6,9 +23,9 @@ The objective of Phase I is to build a strong foundation in R programming, start
 
 # Learning modules
 
-This first remote phase is in self-paced learning mode. However, some meetings with teachers are scheduled (see below). These are not mandatory but can provide an opportunity to discuss any issues encountered. 
+This first remote phase of the BIP is in self-paced learning mode. This means you will progress through the course at own speed and your own schedule. However, some meetings with teachers are scheduled (see below). These are not mandatory but can provide an opportunity to discuss any issues encountered. 
 
-You should go through all the modules outlined below (links for module 10 to 18 will be . Each topic is designed to enhance your understanding and practical skills, ensuring you can apply R effectively in data analysis and beyond.
+You should go through all the modules outlined below (links for module 11 to 18 will be provided later). Each topic is designed to enhance your understanding and practical skills, ensuring you can apply R effectively in data analysis and beyond.
 
 
 | Module | Description |
@@ -21,8 +38,8 @@ You should go through all the modules outlined below (links for module 10 to 18 
 | 06 - [Data Frames: The Heart of R](https://denis-puthier-bip.shinyapps.io/06_dataframes/) | Introduction to data frames, R’s most widely used structure for handling tabular data. |
 | 07 - [Data Manipulation with dplyr](https://denis-puthier-bip.shinyapps.io/07_dplyr/) | Using dplyr to filter, summarize, and transform data efficiently with a tidy approach. |
 | 08 - [Lists: Flexible Data Storage](https://denis-puthier-bip.shinyapps.io/08_listss/) | Understanding lists and how they store heterogeneous data types in R. |
-| 09 - [Navigating the File System]() | Reading and writing files, setting working directories, and managing paths in R. |
-| 10 - [Data Type Conversions | Converting between different data types (numeric, character, factor, etc.) to ensure consistency. |
+| 09 - [Navigating the File System]( https://denis-puthier-bip.shinyapps.io/09_file_system/) | Reading and writing files, setting working directories, and managing paths in R. |
+| 10 - [Data Type Conversions](https://denis-puthier-bip.shinyapps.io/10_conversions/) | Converting between different data types (numeric, character, factor, etc.) to ensure consistency. |
 | 11 - Conditional Statements in R | Using if, else, and switch statements for decision-making in your R scripts. |
 | 12 - Loops and Iterations | Implementing for loops, while loops, and alternatives for iterative programming in R. |
 | 13 - Data Visualization with ggplot2: Basics | Introduction to ggplot2, setting up plots, and understanding the grammar of graphics. |
@@ -32,13 +49,28 @@ You should go through all the modules outlined below (links for module 10 to 18 
 | 17 - Writing Functions in R | Creating and using functions to make your R code more modular and reusable. |
 | 18 - Object-Oriented Programming in R | Introduction to OOP in R, including S3 and S4 classes for structured programming. |
 
+# Scheduled meetings
+
+Several meetings with teachers are planned (see below). Attendance is not mandatory, but they offer a chance to discuss any potential issues. We may discuss later of additional slots in April and on adjusting the propose dates.
+
+| Date              | Time (CET)               |
+|------------------|------------------------|
+| Wed 5 March     | 6 PM CET                |
+| Sat 8 March     | 9 PM CET                |
+| Wed 12 March    | 6 PM CET                |
+| Sat 15 March    | 9 PM CET                |
+| Wed 19 March    | 6 PM CET                |
+| Wed 26 March    | 6 PM CET                |
+
+The meeting room details will be sent via email.
+
 # Learning evaluation
 
 Your understanding of various aspects of R programming will be assessed through an online web form. The evaluation will primarily focus on concepts covered in learning modules 01-16. The questions will test your knowledge, problem-solving skills, and ability to apply R programming techniques effectively. 
 
-# Note about the pedagological material
+# Running the tutorials on your own machine
 
-The pedagological material (see "Learning modules" section) is based on the rtainer R library we have been developing during the last years for our students. The library itself is based on learnr and gradethis R packages. The content of this library  is available on the current [github page](https://github.com/dputhier/rtrainer) and thus can also be installed on your computer. A recent version of R/RStudio is required. For installation:
+The pedagological material that is provided as  web pages (see "Learning modules" section) is based on the [rtrainer](https://github.com/dputhier/rtrainer) R library that we have been developing during the last years for our students. You can install and run the tutorials on your own machine (and we encourage you to do so). The procedure should be rather straightforward:
 
 - install a recent version of R (>4.2.3) from [CRAN](https://cran.r-project.org/). 
 - install a recent version of RStudio from [Posit](https://posit.co/download/rstudio-desktop/). 
@@ -54,20 +86,10 @@ Look at the tutorial names and start one of them  (here "01_preamble") using:
 - learnr::run_tutorial("01_preamble", "rtrainer") 
 
 
-# Questions, remarks, issues
+# Questions, discussion, remarks, issues
 
 Submit your questions, issues, or feedback by opening an issue in this github repository (GitHub account is required) at:
 
-- [https://github.com/dputhier/rtrainer/issues](https://github.com/dputhier/rtrainer/issues)
-
-# To go further
-
-Once you have mastered the fundamentals of R programming and data visualization with ggplot2, you can explore more advanced and specialized plotting techniques. The ggplot2 [extensions gallery](https://exts.ggplot2.tidyverse.org/gallery/) provides a wealth of additional tools and packages that extend ggplot2’s capabilities. These extensions allow you to create customized, interactive, and highly specialized visualizations tailored to specific analytical needs. Whether you’re interested in animated plots, network diagrams, or enhanced geospatial visualizations, these resources will help you take your R data visualization skills to the next level.
-
-# Contributing 
-
-We are eager to expand the collection with new tutorials on a variety of topics. Feel free to open a discussion or submit a pull request at  [https://github.com/dputhier/rtrainer](https://github.com/dputhier/rtrainer)
-
-
+- [https://github.com/dputhier/rare-disease-phase-I/issues](https://github.com/dputhier/rare-disease-phase-I/issues)
 
 
