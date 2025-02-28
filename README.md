@@ -62,7 +62,7 @@ The pedagological material that is provided as  web pages (see "Learning modules
   - `install.packages("devtools")`
   - `devtools::install_github("dputhier/rtrainer")`
   - `library(learnr)`
-  - `learnr::available_tutorials("rtrainer")``
+  - `learnr::available_tutorials("rtrainer")`
 
 Look at the tutorial names and start one of them  (here "01_preamble") using: 
 
