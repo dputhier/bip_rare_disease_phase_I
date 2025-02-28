@@ -18,8 +18,8 @@ You should go through all the modules outlined below (links for module 11 to 18 
 | 03 - [Indexing and Subsetting Vectors](https://denis-puthier-bip.shinyapps.io/03_vector_indexing/) | Learn how to access, filter, and manipulate vector elements efficiently. |
 | 04 - [Factors and Categorical Data](https://denis-puthier-bip.shinyapps.io/04_factors/) | Handling categorical variables in R using factors, including ordering and labeling. |
 | 05 - [Matrices: Working with 2D Data](https://denis-puthier-bip.shinyapps.io/05_matrices/) | Creating and manipulating matrices, performing operations, and understanding their structure. |
-| 06 - [Data Frames: The Heart of R](https://denis-puthier-bip.shinyapps.io/06_dataframes/) | Introduction to data frames, R’s most widely used structure for handling tabular data. |
-| 07 - [Data Manipulation with dplyr](https://denis-puthier-bip.shinyapps.io/07_dplyr/) | Using dplyr to filter, summarize, and transform data efficiently with a tidy approach. |
+| 06 - [Data Frames: The Heart of R](https://denis-puthier-bip.shinyapps.io/06_dataframes/) | Introduction to data frames, R’s most widely used structure for handling data. |
+| 07 - [Data Manipulation with dplyr](https://denis-puthier-bip.shinyapps.io/07_dplyr/) | Using dplyr to filter, summarize, and transform data efficiently. |
 | 08 - [Lists: Flexible Data Storage](https://denis-puthier-bip.shinyapps.io/08_listss/) | Understanding lists and how they store heterogeneous data types in R. |
 | 09 - [Navigating the File System]( https://denis-puthier-bip.shinyapps.io/09_file_system/) | Reading and writing files, setting working directories, and managing paths in R. |
 | 10 - [Data Type Conversions](https://denis-puthier-bip.shinyapps.io/10_conversions/) | Converting between different data types (numeric, character, factor, etc.) to ensure consistency. |
