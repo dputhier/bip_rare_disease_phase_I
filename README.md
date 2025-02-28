@@ -22,13 +22,13 @@ You should go through all the modules outlined below (links for module 11 to 18 
 | 07 - [Data Manipulation with dplyr](https://denis-puthier-bip.shinyapps.io/07_dplyr/) | Using dplyr to filter, summarize, and transform data efficiently. |
 | 08 - [Lists: Flexible Data Storage](https://denis-puthier-bip.shinyapps.io/08_listss/) | Understanding lists and how they store heterogeneous data types in R. |
 | 09 - [Navigating the File System]( https://denis-puthier-bip.shinyapps.io/09_file_system/) | Reading and writing files, setting working directories, and managing paths in R. |
-| 10 - [Data Type Conversions](https://denis-puthier-bip.shinyapps.io/10_conversions/) | Converting between different data types (numeric, character, factor, etc.) to ensure consistency. |
-| 11 - Conditional Statements in R | Using if, else, and switch statements for decision-making in your R scripts. |
-| 12 - Loops and Iterations | Implementing for loops, while loops, and alternatives for iterative programming in R. |
-| 13 - Data Visualization with ggplot2: Basics | Introduction to ggplot2, setting up plots, and understanding the grammar of graphics. |
-| 14 - Customizing ggplot2 Visualizations | Modifying themes, axes, colors, and labels to enhance your visualizations. |
-| 15 - Advanced ggplot2 Techniques | Faceting, combining multiple plots, and working with advanced aesthetics in ggplot2. |
-| 16 - ggplot2: Interactive and Specialized Plots | Creating interactive and specialized plots for deeper data exploration. |
+| 10 - [Data Type Conversions](https://denis-puthier-bip.shinyapps.io/10_conversions/) | Converting between different data types (numeric, character, factor...). |
+| 11 - Conditional Statements in R | Using if/else statements for decision-making in your R scripts. |
+| 12 - Loops and Iterations | Implementing for loops loops for iterative tasks in R. |
+| 13 - Data Visualization with ggplot2: Basics | Introduction to ggplot2 - part 1 |
+| 14 - Customizing ggplot2 Visualizations |  Introduction to ggplot2 - part 2 |
+| 15 - Advanced ggplot2 Techniques |  Introduction to ggplot2 - part 3 |
+| 16 - ggplot2: Interactive and Specialized Plots |  Introduction to ggplot2 - part 4 |
 | 17 - Writing Functions in R | Creating and using functions to make your R code more modular and reusable. |
 | 18 - Object-Oriented Programming in R | Introduction to OOP in R, including S3 and S4 classes for structured programming. |
 
