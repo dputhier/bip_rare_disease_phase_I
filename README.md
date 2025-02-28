@@ -1,27 +1,10 @@
----
-title: 'BIP (Blended Intensive Programs) : "Rare Diseases at the Omics era: Current
-  tools for frequent challenges" (Phase I remote)'
-author: "D. Puthier"
-date: "2025-02-28"
-output:
-  html_document:
-    fig_caption: yes
-    highlight: zenburn
-    theme: cerulean
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Objectives 
+# BIP (Blended Intensive Programs) : "Rare Diseases at the Omics era: Current tools for frequent challenges" (Phase I remote)
+  
+## Objectives 
 
 The objective of Phase I is to build a strong foundation in R programming, starting with fundamental concepts such as data structures, manipulation, and control flow. As the program progresses, learners will explore data visualization using [ggplot2](https://ggplot2.tidyverse.org/), mastering its advanced features to create insightful and customized visual representations. Finally, the phase will end up with some elements about object-oriented programming (OOP) in R, covering general concepts and methodologies for structuring user-defined classes.
 
-# Learning modules
+## Learning modules
 
 This first remote phase of the BIP is in self-paced learning mode. This means you will progress through the course at own speed and your own schedule. However, some meetings with teachers are scheduled (see below). These are not mandatory but can provide an opportunity to discuss any issues encountered. 
 
@@ -49,7 +32,7 @@ You should go through all the modules outlined below (links for module 11 to 18 
 | 17 - Writing Functions in R | Creating and using functions to make your R code more modular and reusable. |
 | 18 - Object-Oriented Programming in R | Introduction to OOP in R, including S3 and S4 classes for structured programming. |
 
-# Scheduled meetings
+## Scheduled meetings
 
 Several meetings with teachers are planned (see below). Attendance is not mandatory, but they offer a chance to discuss any potential issues. We may discuss later of additional slots in April and on adjusting the propose dates.
 
@@ -64,11 +47,11 @@ Several meetings with teachers are planned (see below). Attendance is not mandat
 
 The meeting room details will be sent via email.
 
-# Learning evaluation
+## Learning evaluation
 
 Your understanding of various aspects of R programming will be assessed through an online web form. The evaluation will primarily focus on concepts covered in learning modules 01-16. The questions will test your knowledge, problem-solving skills, and ability to apply R programming techniques effectively. 
 
-# Running the tutorials on your own machine
+## Running the tutorials on your own machine
 
 The pedagological material that is provided as  web pages (see "Learning modules" section) is based on the [rtrainer](https://github.com/dputhier/rtrainer) R library that we have been developing during the last years for our students. You can install and run the tutorials on your own machine (and we encourage you to do so). The procedure should be rather straightforward:
 
@@ -86,7 +69,7 @@ Look at the tutorial names and start one of them  (here "01_preamble") using:
 - learnr::run_tutorial("01_preamble", "rtrainer") 
 
 
-# Questions, discussion, remarks, issues
+## Questions, discussion, remarks, issues
 
 Submit your questions, issues, or feedback by opening an issue in this github repository (GitHub account is required) at:
 
