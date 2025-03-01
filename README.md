@@ -13,16 +13,16 @@ You should go through all the modules outlined below (links for module 11 to 18 
 
 | Module | Description |
 |--------|------------|
-| 01 - [Getting Started with R](https://denis-puthier-bip.shinyapps.io/01_preamble/) | Introduction to understanding basic R syntax. |
-| 02 - [Working with Vectors](https://denis-puthier-bip.shinyapps.io/02_vectors/) | Understanding vectors, R’s primary data structure, and performing basic operations. |
-| 03 - [Indexing and Subsetting Vectors](https://denis-puthier-bip.shinyapps.io/03_vector_indexing/) | Learn how to access, filter, and manipulate vector elements efficiently. |
-| 04 - [Factors and Categorical Data](https://denis-puthier-bip.shinyapps.io/04_factors/) | Handling categorical variables in R using factors, including ordering and labeling. |
-| 05 - [Matrices: Working with 2D Data](https://denis-puthier-bip.shinyapps.io/05_matrices/) | Creating and manipulating matrices, performing operations, and understanding their structure. |
-| 06 - [Data Frames: The Heart of R](https://denis-puthier-bip.shinyapps.io/06_dataframes/) | Introduction to data frames, R’s most widely used structure for handling data. |
-| 07 - [Data Manipulation with dplyr](https://denis-puthier-bip.shinyapps.io/07_dplyr/) | Using dplyr to filter, summarize, and transform data efficiently. |
-| 08 - [Lists: Flexible Data Storage](https://denis-puthier-bip.shinyapps.io/08_listss/) | Understanding lists and how they store heterogeneous data types in R. |
-| 09 - [Navigating the File System]( https://denis-puthier-bip.shinyapps.io/09_file_system/) | Reading and writing files, setting working directories, and managing paths in R. |
-| 10 - [Data Type Conversions](https://denis-puthier-bip.shinyapps.io/10_conversions/) | Converting between different data types (numeric, character, factor...). |
+| 01 - Getting Started with R | Introduction to understanding basic R syntax. |
+| 02 - Working with Vectors | Understanding vectors, R’s primary data structure, and performing basic operations. |
+| 03 - Indexing and Subsetting Vectors | Learn how to access, filter, and manipulate vector elements efficiently. |
+| 04 - Factors and Categorical Data| Handling categorical variables in R using factors, including ordering and labeling. |
+| 05 - Matrices: Working with 2D Data | Creating and manipulating matrices, performing operations, and understanding their structure. |
+| 06 - Data Frames: The Heart of R | Introduction to data frames, R’s most widely used structure for handling data. |
+| 07 - Data Manipulation with dplyr | Using dplyr to filter, summarize, and transform data efficiently. |
+| 08 - Lists: Flexible Data Storage | Understanding lists and how they store heterogeneous data types in R. |
+| 09 - Navigating the File System | Reading and writing files, setting working directories, and managing paths in R. |
+| 10 - Data Type Conversions | Converting between different data types (numeric, character, factor...). |
 | 11 - Conditional Statements in R | Using if/else statements for decision-making in your R scripts. |
 | 12 - Loops and Iterations | Implementing for loops loops for iterative tasks in R. |
 | 13 - Data Visualization with ggplot2: Basics | Introduction to ggplot2 - part 1 |
@@ -46,6 +46,21 @@ Several meetings with teachers are planned (see below). Attendance is not mandat
 | Wed 26 March    | 6 PM CET                |
 
 The meeting room details will be sent via email.
+
+## Scheduled meetings
+
+Several meetings with D. Puthier & A. Gonzalez are planned (see below). Attendance is not mandatory, but they offer a chance to discuss any potential issues. We may discuss later of additional slots in April and on adjusting the propose dates.
+
+| Date              | Time (CET)               |
+|------------------|------------------------|
+| Wed 5 March     | 6 PM CET                |
+| Sat 8 March     | 9 PM CET                |
+| Wed 12 March    | 6 PM CET                |
+| Sat 15 March    | 9 PM CET                |
+| Wed 19 March    | 6 PM CET                |
+| Wed 26 March    | 6 PM CET                |
+
+The meeting room will be send by email.
 
 ## Learning evaluation
 
@@ -75,7 +90,7 @@ Submit your questions, issues, or feedback by opening an issue in this github re
 
 - [https://github.com/dputhier/rare-disease-phase-I/issues](https://github.com/dputhier/rare-disease-phase-I/issues)
 
-
 ## Links
 
 - [Rare Diseases at the Omics era: Current tools for frequent challenges](https://civis.eu/en/learn/civis-courses/rare-diseases-at-the-omics-era-current-tools-for-frequent-challenges) (Civis)
+
